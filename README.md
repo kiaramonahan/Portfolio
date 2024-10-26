@@ -1,6 +1,6 @@
 # Kiara Monahan's Data Science Portfolio
 ## About Me
-While I was working as a researcher in the biomedical field, I realized my favorite part of each day was analyzing data - so I decided to pursue my dream of working with data full time. I am about to graduate with a Master in Information and Data Science from UC Berkeley.
+I am a data scientist with a background in biomedical research, public health, and community engagement. 
 
 This portfolio serves as a collection of projects I've been working on throughout my graduate studies as well as for personal enjoyment and learning. 
 
