@@ -7,7 +7,6 @@ This portfolio serves as a collection of projects I've been working on throughou
 ## Projects
 
 ### CoralSense
-![data wrangling, data analysis, machine learning, visualization](https://github.com/kiaramonahan/Image/blob/main/data_skills_1.png?raw=true)
 - Project aiming to predict future coral reef health globally using machine learning and time series models with the goal to aid conservationists, governments, and raise public awareness. Researched and integrated over 6 environmental, socio-economic, and geospatial datasets, including satellite imagery, utilizing SQL, GeoPandas, and Pandas in Python. Developed a map interface with JavaScript and HTML to display model predictions, and used React for back-end website creation. Employed AWS for both model training and website hosting.
 
 ### Med-Abbrev-Mystery [natural language processing, BERT, machine learning, clinical data]
